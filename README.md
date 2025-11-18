@@ -1,4 +1,4 @@
-# 🌟 RESTRO-REWARDS
+# 🌟 Restaurant Rewards
 
 **Restaurant Loyalty Program**  
 A modern loyalty management system to reward your restaurant's loyal customers.
